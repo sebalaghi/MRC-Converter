@@ -1,4 +1,4 @@
-# MRC to TIFF Converter with Scale Bar
+# MRC to TIFF Converter
 
 This Python script provides a comprehensive tool for converting MRC files to TIFF format, featuring a GUI for easy interaction. It allows users to navigate through frames of MRC files, apply denoising and smoothing filters, and convert selected frames to TIFF with customizable options such as resolution and order reversal. Additionally, it introduces a scale bar to the image display, enhancing the interpretability of the microscopy images.
 
